@@ -29,7 +29,7 @@ const Banner = () => {
             >
               BEN
               <span> CEM</span>
-            </motion.h1>
+            </motion.h1> 
             <motion.div
               variants={fadeIn("up", 0.4)}
               initial="hidden"
